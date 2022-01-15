@@ -25,11 +25,10 @@ use Postman to test the required APIs
     -so there are three variables tweetId from request params in the url and userId and content in the request body.
       
 4. Post a comment on a Comment:request to this endpoint (localhost/tweets/:tweetId/comments/:commentId/comment)
-      
    -enter any Id for <tweetId> param.
    -enter any Id for <commentId> param.
     -You shoud pass in the body of the request a userId and content of tweet  and make the content-type as "application/json". like below
-      {
+      `{
          "userId":3,//you can change value
          "content":"hello"//you can change value
-      }
+      }`
