@@ -1,12 +1,10 @@
 # social-app
 
--This app uses Mysql database.
--the database is already prefilled with some values for testing and i shall provide a script.sql for you that you can import it into mysql workbench.
--Tables are tweet,user and comment.
--I used Node Js and express framework.
- 
-
--use Postman to test the required APIs
+- This app uses Mysql database.
+- The database is already prefilled with some values for testing and i shall provide a script.sql for you that you can import it into mysql workbench.
+- Tables are tweet,user and comment.
+- I used Node Js and express framework.
+- Use Postman to test the required APIs
 
   1. Get User Tweets : GET request to this endpoint (localhost/users)
   2. Post a tweet:POST request to this endpoint(localhost/tweet)
