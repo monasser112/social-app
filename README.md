@@ -5,6 +5,7 @@
 - Tables are tweet,user and comment details are in the erd diagram.
 - I used Node Js and express framework.
 - Use Postman to test the required APIs
+- Use Mysql Workbench to see results when applying different APIs, I shall provide a script.sql and you can import it directly.
 
   1. Get User Tweets : GET request to this endpoint `localhost/users`
   2. Post a tweet: POST request to this endpoint `localhost/tweet`
